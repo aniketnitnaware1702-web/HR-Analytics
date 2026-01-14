@@ -43,7 +43,13 @@ The dashboard provides insights into attrition patterns based on age, education,
 ## 📁 Dataset
 The dataset used in this project is anonymised and intended for learning and portfolio demonstration purposes only.
 
----
+
+## 📸 Dashboard Screenshot
+
+![HR Analytics Dashboard](Screenshots/hr_analytics_dashboard.png)
+
+📄 **Full Dashboard (PDF):**  
+[Click here to view the complete dashboard in PDF format](https://github.com/aniketnitnaware1702-web/HR-Analytics/blob/main/HR%20Analytics.pdf)
 
 ## 👤 Author
 Aniket
