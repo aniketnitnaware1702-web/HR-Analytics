@@ -46,7 +46,8 @@ The dataset used in this project is anonymised and intended for learning and por
 
 ## 📸 Dashboard Screenshot
 
-![HR Analytics Dashboard]([Screenshots/hr_analytics_dashboard.png](https://github.com/aniketnitnaware1702-web/HR-Analytics/blob/main/HR%20Analytics.png)
+![HR Analytics Dashboard Overview](HR Analytics.png)
+
 
 📄 **Full Dashboard (PDF):**  
 [Click here to view the complete dashboard in PDF format](https://github.com/aniketnitnaware1702-web/HR-Analytics/blob/main/HR%20Analytics.pdf)
